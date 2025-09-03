@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <FirstApp/> Match with snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    I am  Goku
+  </h1>
+  <p>
+    0
+  </p>
+  <p>
+    nombre por defecto
+  </p>
+</div>
+`;
